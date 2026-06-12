@@ -18,3 +18,14 @@ it works by u putting ur emotion on the terminal.
 its in spanish btw....
 
 https://wokwi.com/projects/463667608955522049
+
+
+PCB ! 
+<img width="1151" height="747" alt="image" src="https://github.com/user-attachments/assets/f8d6664e-515d-40fb-b024-1e66c0d07629" />
+<img width="867" height="711" alt="image" src="https://github.com/user-attachments/assets/0c8afab4-ee76-449f-b949-dbfca0c5bd64" />
+<img width="1396" height="905" alt="image" src="https://github.com/user-attachments/assets/c5e96094-8055-44e0-92b8-ff0a6cbeaa32" />
+
+
+BOM ! 
+
+<img width="1366" height="306" alt="Captura de pantalla 2026-06-12 092613" src="https://github.com/user-attachments/assets/efd24258-dd7a-40ce-b52e-704cd4bab374" />
