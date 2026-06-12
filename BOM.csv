@@ -1,0 +1,6 @@
+﻿Bill of Materials (BOM) LUMINA,,,,
+Component                                                                ,Purpose  ,      Quantity   ,Cost,Link
+ESP32-C3 Super Mini,Main microcontroller of the LUMINA device,1,$3.50,https://www.espboards.dev/esp32/esp32-s3-super-mini/
+"OLED Display 0.96"" (SSD1306)",Displays LUMINA's face and animations,1,$2.00,"24177 SparkFun Electronics | LCD, OLED y gráfico | DigiKey"
+Push Button,User interaction input,1,$0.10,"Buzzer de 3,8 kHz, con señal de tono constante de 72 dB"
+MAX30102 Heart Rate Sensor,Measures heart rate and blood oxygen levels,1,$2.50,es.aliexpress.com/item/1005009507350047.html?src=bing&exp_tag=pcgcp&albch=shopping&acnt=135095331&albcp=555291703&albag=1299623925852708&slnk=&trgt=pla-2333026235563924&plac=&crea=81226553419370&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_MX_Pmax_3C_MAXvalue_20250206_newstore&utm_content=3C&utm_term=MAX3G110X &msclkid=fabe65d83f1a1acf523a0fc0e5253fec&aff_fcid=47233fd686524fa88314dec8fce1a5ea-1780013635188-01999-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=47233fd686524fa88314dec8fce1a5ea-1780013635188-01999-UneMJZVf&terminal_id=5927158648684954809663ec4040b6d2&afSmartRedirect=n&gatewayAdapt=glo2esp
