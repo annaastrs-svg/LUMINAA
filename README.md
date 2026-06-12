@@ -28,4 +28,7 @@ PCB !
 
 BOM ! 
 
-<img width="1366" height="306" alt="Captura de pantalla 2026-06-12 092613" src="https://github.com/user-attachments/assets/efd24258-dd7a-40ce-b52e-704cd4bab374" />
+<img width="842" height="750" alt="Captura de pantalla 2026-06-11 202905" src="https://github.com/user-attachments/assets/76e6df6f-c977-48fb-b95a-6ce2b083352a" />
+
+
+ 
