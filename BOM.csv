@@ -1,0 +1,6 @@
+Bill of Materials (BOM) LUMINA,,,
+Component                                                                ,Purpose  ,      Quantity   ,Cost
+ESP32-C3 Super Mini,Main microcontroller of the LUMINA device,1,$3.50
+"OLED Display 0.96"" (SSD1306)",Displays LUMINA's face and animations,1,$2.00
+Push Button,User interaction input,1,$0.10
+MAX30102 Heart Rate Sensor,Measures heart rate and blood oxygen levels,1,$2.50
