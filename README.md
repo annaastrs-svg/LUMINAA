@@ -31,4 +31,24 @@ BOM !
 <img width="842" height="750" alt="Captura de pantalla 2026-06-11 202905" src="https://github.com/user-attachments/assets/76e6df6f-c977-48fb-b95a-6ce2b083352a" />
 
 
+ WIRES ! 
+
+ ESP32 - MAX
+
+ 3V3 - VIN
+ GND - GND
+  21 - SCL 
+  22 - SDA
+
+ ESP32 - BUZZER
+
+GND - GND
+D5 - S
  
+ ESP32 - OLED 0.96
+ 
+ 3V3 - 3V3
+ GND - GND
+ 21 - SDA
+22 -  SCK
+
