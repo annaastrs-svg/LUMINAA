@@ -1,5 +1,8 @@
 LUMINA
 
+SEE PAG !
+https://annaastrs-svg.github.io/Lumina-Pag-/
+
 Lumina is a little friend with a module to measure your pulse per minute! It tells you if you're okay, 
 if you're very relaxed, or if you're very agitated.
 
