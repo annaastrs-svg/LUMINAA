@@ -13,7 +13,7 @@ It's like a little keychain that helps you and measures your pulse and acts base
 
 <img width="830" height="603" alt="WhatsApp Image 2026-06-18 at 5 56 05 PM (1)" src="https://github.com/user-attachments/assets/0cbb13c7-59d7-49ea-b6f8-e985a1dee60a" />
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ecdd686c-7f44-4e8b-acce-314fbf039b7a" />
+<img width="1125" height="600" alt="WhatsApp Image 2026-06-18 at 5 56 05 PM" src="https://github.com/user-attachments/assets/0ea00b46-bb9f-41fe-be43-0e1266e8a7cb" />
 
 ! DEMO ! 
 ! TRY IT ! 
