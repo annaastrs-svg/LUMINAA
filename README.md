@@ -11,9 +11,9 @@ so I opened it up and tried to make it work with my ESP. I used the TX and it wo
 I ended up buying an Arduino MAX pulse meter and created this little Tamagotchi, which I named Lumina. 
 It's like a little keychain that helps you and measures your pulse and acts based on that.
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ecdd686c-7f44-4e8b-acce-314fbf039b7a" />
+<img width="830" height="603" alt="WhatsApp Image 2026-06-18 at 5 56 05 PM (1)" src="https://github.com/user-attachments/assets/0cbb13c7-59d7-49ea-b6f8-e985a1dee60a" />
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a33d08d5-bacd-4312-a6bd-1d7d8c78215b" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ecdd686c-7f44-4e8b-acce-314fbf039b7a" />
 
 ! DEMO ! 
 ! TRY IT ! 
